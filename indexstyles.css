@@ -1,0 +1,45 @@
+    body {
+      background-color: #f8f9fa;
+    }
+    .section-title {
+      border-bottom: 2px solid #198754;
+      padding-bottom: 6px;
+      margin-bottom: 20px;
+    }
+    .resume-header {
+      background-color: #ffffff;
+      padding: 40px;
+      border-radius: 8px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    }
+    .resume-section {
+      background-color: #ffffff;
+      padding: 30px;
+      margin-top: 30px;
+      border-radius: 8px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+    }
+
+    .game-container {
+      background-color: #ffffff;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    }
+
+    canvas {
+      background-color: #e9ecef;
+      border: 3px solid #198754;
+      display: block;
+      margin: 0 auto;
+    }
+
+    .score {
+      font-size: 1.2rem;
+      font-weight: bold;
+    }
+
+    .instructions {
+      font-size: 0.95rem;
+      color: #6c757d;
+    }
